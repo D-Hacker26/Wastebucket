@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758058775555",
+    "project_id": "wastebusks",
+    "storage_bucket": "wastebusks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758058775555:android:cd5a0a317d1fd041a50a36",
+        "android_client_info": {
+          "package_name": "com.example.wastebusks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_eVrUc7bsldA8IyNG_QXuDskSDTl5qXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
