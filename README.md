@@ -31,9 +31,6 @@ This app promotes waste reduction and promotes eco-friendly products and practic
 - Android Studio Giraffe | 2022.3.1
 - SDK Version: '>=2.18.0 <3.10.0'
 
-## Claim an issue
-Comment on the issue. In case of no activity on the issue even after 2 days, the issue will be reassigned. If you have difficulty approaching the issue, feel free to ask on our discord channel.
-
 ## How To Contibute
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
@@ -69,9 +66,6 @@ Please help us follow the best practice to make it easy for the reviewer as well
 
 - Pull Request older than 2 days with no response from the contributor shall be marked closed.
 
-
-## 📢Communication 
-Whether you are working on a new feature or facing a doubt please feel free to ask us on our [discord](https://discord.gg/D9999YTkS8) channel. We will be happy to help you out😊.
 
 ## ✒️Reference Links 
 - [Download and install the latest version of Git.](https://git-scm.com/downloads)
